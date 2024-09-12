@@ -19,3 +19,18 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+h1{
+    fonte-size: 40px;
+}
+p{
+    fonte-size:20px;
+}
+img {
+    heigh: 200px;
+}
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
